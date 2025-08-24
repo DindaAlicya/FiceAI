@@ -1,0 +1,352 @@
+ [
+  {
+    "image_path": "struk_001.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "HAO KOPITIAM", "bbox": [238, 169, 759, 269]},
+      {"label": "grand_total", "text": "55.000", "bbox": [140, 786, 921, 825]}
+    ]
+  },
+  {
+    "image_path": "struk_002.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "PADHI RESTO", "bbox": [339, 157, 674, 202]},
+      {"label": "grand_total", "text": "280,253", "bbox": [316, 765, 918, 804]}
+    ]
+  },
+  {
+    "image_path": "struk_003.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "UD.CONNY JAYA", "bbox": [277, 78, 529, 107]},
+      {"label": "grand_total", "text": "435.000", "bbox": [253, 629, 769, 663]}
+    ]
+  },
+  {
+    "image_path": "struk_004.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "Omas", "bbox": [521, 203, 608, 222]},
+      {"label": "grand_total", "text": "102.300", "bbox": [323, 839, 836, 873]}
+    ]
+  },
+  {
+    "image_path": "struk_005.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "RM PAGI SORE", "bbox": [296, 118, 574, 137]},
+      {"label": "grand_total", "text": "838,200", "bbox": [259, 808, 923, 843]}
+    ]
+  },
+  {
+    "image_path": "struk_006.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "MEDJA RESTO", "bbox": [377, 126, 642, 163]},
+      {"label": "grand_total", "text": "1,358,280", "bbox": [290, 800, 919, 840]}
+    ]
+  },
+  {
+    "image_path": "struk_007.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "MEAT STEAK", "bbox": [431, 139, 672, 196]},
+      {"label": "grand_total", "text": "373,000", "bbox": [180, 806, 838, 837]}
+    ]
+  },
+  {
+    "image_path": "struk_008.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "TLOGOMAS 44 MALANG", "bbox": [201, 158, 750, 195]},
+      {"label": "grand_total", "text": "75,400", "bbox": [550, 794, 917, 819]}
+    ]
+  },
+  {
+    "image_path": "struk_009.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "Humaira coffee & kitchen", "bbox": [259, 107, 672, 148]},
+      {"label": "grand_total", "text": "205.000", "bbox": [178, 829, 684, 866]}
+    ]
+  },
+  {
+    "image_path": "struk_010.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "XIYUE", "bbox": [337, 99, 595, 163]},
+      {"label": "grand_total", "text": "46.000", "bbox": [267, 778, 706, 811]}
+    ]
+  },
+  {
+    "image_path": "struk_011.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "Pradana Swalayan", "bbox": [321, 222, 696, 256]},
+      {"label": "grand_total", "text": "82,000", "bbox": [603, 765, 915, 795]}
+    ]
+  },
+  {
+    "image_path": "struk_012.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "KOPI NAKO", "bbox": [530, 221, 725, 260]},
+      {"label": "grand_total", "text": "169,400", "bbox": [665, 849, 929, 882]}
+    ]
+  },
+  {
+    "image_path": "struk_013.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "Kopi Kenangan", "bbox": [376, 465, 629, 492]},
+      {"label": "grand_total", "text": "50,000", "bbox": [662, 705, 818, 730]}
+    ]
+  },
+  {
+    "image_path": "struk_014.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "QUEEN STORE", "bbox": [379, 281, 622, 307]},
+      {"label": "grand_total", "text": "55.000", "bbox": [471, 747, 768, 779]}
+    ]
+  },
+  {
+    "image_path": "struk_015.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "Sengkaling", "bbox": [371, 297, 629, 327]},
+      {"label": "grand_total", "text": "88,000", "bbox": [699, 817, 914, 847]}
+    ]
+  },
+  {
+    "image_path": "struk_016.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "Juansha", "bbox": [390, 199, 686, 248]},
+      {"label": "grand_total", "text": "110.000", "bbox": [678, 819, 936, 863]}
+    ]
+  },
+  {
+    "image_path": "struk_017.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "ALFAMART", "bbox": [267, 105, 672, 131]},
+      {"label": "grand_total", "text": "95,400", "bbox": [735, 761, 918, 786]}
+    ]
+  },
+  {
+    "image_path": "struk_018.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "sy_beautyskin", "bbox": [326, 178, 702, 211]},
+      {"label": "grand_total", "text": "156.000", "bbox": [700, 770, 921, 796]}
+    ]
+  },
+  {
+    "image_path": "struk_019.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "GATOT SUBROTO KM 4.5", "bbox": [15, 161, 702, 193]},
+      {"label": "grand_total", "text": "250.000,00", "bbox": [672, 608, 928, 636]}
+    ]
+  },
+  {
+    "image_path": "struk_020.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "STRUK PEMBAYARAN TOKEN PLN", "bbox": [158, 237, 735, 293]},
+      {"label": "grand_total", "text": "104.000", "bbox": [471, 882, 755, 912]}
+    ]
+  },
+  {
+    "image_path": "struk_021.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "Toko Langgeng Jaya", "bbox": [284, 91, 715, 126]},
+      {"label": "grand_total", "text": "20.000", "bbox": [498, 678, 861, 709]}
+    ]
+  },
+  {
+    "image_path": "struk_022.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "MIE GACORAN", "bbox": [425, 230, 678, 269]},
+      {"label": "grand_total", "text": "77,500", "bbox": [326, 738, 796, 767]}
+    ]
+  },
+  {
+    "image_path": "struk_023.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "BUKTI BAYAR", "bbox": [431, 169, 674, 195]},
+      {"label": "grand_total", "text": "316.000", "bbox": [693, 736, 893, 764]}
+    ]
+  },
+  {
+    "image_path": "struk_024.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "ANNA BABY STORE", "bbox": [304, 291, 698, 321]},
+      {"label": "grand_total", "text": "34.450", "bbox": [321, 804, 786, 836]}
+    ]
+  },
+  {
+    "image_path": "struk_025.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "WALKING DRUMS", "bbox": [421, 193, 683, 230]},
+      {"label": "grand_total", "text": "376.530", "bbox": [378, 814, 831, 848]}
+    ]
+  },
+  {
+    "image_path": "struk_026.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "CHANDARA", "bbox": [454, 252, 649, 275]},
+      {"label": "grand_total", "text": "638.550", "bbox": [375, 874, 826, 903]}
+    ]
+  },
+  {
+    "image_path": "struk_027.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "Berkaa Shop", "bbox": [318, 91, 680, 137]},
+      {"label": "grand_total", "text": "47.000", "bbox": [71, 712, 592, 747]}
+    ]
+  },
+  {
+    "image_path": "struk_028.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "Indomaret", "bbox": [447, 61, 715, 126]},
+      {"label": "grand_total", "text": "28,900", "bbox": [558, 742, 835, 770]}
+    ]
+  },
+  {
+    "image_path": "struk_029.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "Alfamart", "bbox": [763, 856, 999, 886]},
+      {"label": "grand_total", "text": "65,900", "bbox": [108, 549, 833, 579]}
+    ]
+  },
+  {
+    "image_path": "struk_030.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "Indomaret", "bbox": [560, 63, 828, 128]},
+      {"label": "grand_total", "text": "42,400", "bbox": [564, 815, 841, 843]}
+    ]
+  },
+  {
+    "image_path": "struk_031.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "Giraf Bakery & Kitchen", "bbox": [61, 180, 410, 311]},
+      {"label": "grand_total", "text": "84.000", "bbox": [672, 803, 917, 838]}
+    ]
+  },
+  {
+    "image_path": "struk_032.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "KFC", "bbox": [343, 0, 655, 143]},
+      {"label": "grand_total", "text": "29,000", "bbox": [698, 804, 922, 842]}
+    ]
+  },
+  {
+    "image_path": "struk_033.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "TOKO WARDHA", "bbox": [461, 107, 786, 142]},
+      {"label": "grand_total", "text": "300.000", "bbox": [695, 680, 874, 706]}
+    ]
+  },
+  {
+    "image_path": "struk_034.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "ANGKE RESTAURANT", "bbox": [342, 233, 660, 262]},
+      {"label": "grand_total", "text": "502.579", "bbox": [178, 850, 848, 882]}
+    ]
+  },
+  {
+    "image_path": "struk_035.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "Talaga Sampireun", "bbox": [336, 148, 665, 178]},
+      {"label": "grand_total", "text": "1,931,200", "bbox": [287, 844, 764, 878]}
+    ]
+  },
+  {
+    "image_path": "struk_036.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "SANUKI UDON", "bbox": [390, 195, 611, 222]},
+      {"label": "grand_total", "text": "66.00", "bbox": [303, 762, 803, 792]}
+    ]
+  },
+  {
+    "image_path": "struk_037.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "Kuah Kental Kaldu Sapi Asli", "bbox": [348, 155, 654, 183]},
+      {"label": "grand_total", "text": "116.000", "bbox": [604, 755, 800, 780]}
+    ]
+  },
+  {
+    "image_path": "struk_038.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "Lulu Lounge", "bbox": [291, 198, 439, 218]},
+      {"label": "grand_total", "text": "8.098,00", "bbox": [287, 792, 693, 826]}
+    ]
+  },
+  {
+    "image_path": "struk_039.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "IMPERIAL KITCHEN", "bbox": [570, 0, 712, 140]},
+      {"label": "grand_total", "text": "1,813,350", "bbox": [587, 810, 884, 840]}
+    ]
+  },
+  {
+    "image_path": "struk_040.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "MIE GAGOAN JAMBI MAYANG", "bbox": [243, 290, 660, 318]},
+      {"label": "grand_total", "text": "71,500", "bbox": [318, 856, 755, 884]}
+    ]
+  },
+  {
+    "image_path": "struk_041.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "WARUNG BU KRIS", "bbox": [345, 292, 657, 318]},
+      {"label": "grand_total", "text": "177,000", "bbox": [318, 868, 803, 898]}
+    ]
+  },
+  {
+    "image_path": "struk_042.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "MARUGAME UDON", "bbox": [447, 432, 706, 458]},
+      {"label": "grand_total", "text": "1,420,000", "bbox": [499, 846, 884, 876]}
+    ]
+  },
+  {
+    "image_path": "struk_043.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "PARADISE DYNASTY", "bbox": [312, 169, 569, 218]},
+      {"label": "grand_total", "text": "436.934", "bbox": [303, 762, 767, 794]}
+    ]
+  },
+  {
+    "image_path": "struk_044.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "PUI TANG", "bbox": [172, 112, 428, 161]},
+      {"label": "grand_total", "text": "19.293.500", "bbox": [257, 918, 595, 951]}
+    ]
+  },
+  {
+    "image_path": "struk_045.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "HERMES XXI", "bbox": [447, 240, 715, 276]},
+      {"label": "grand_total", "text": "155,000", "bbox": [530, 831, 808, 866]}
+    ]
+  },
+  {
+    "image_path": "struk_046.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "NASI TEMPONG INDRA", "bbox": [326, 294, 616, 321]},
+      {"label": "grand_total", "text": "846,400", "bbox": [296, 849, 713, 880]}
+    ]
+  },
+  {
+    "image_path": "struk_047.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "NEON PALM", "bbox": [468, 226, 626, 248]},
+      {"label": "grand_total", "text": "481,400", "bbox": [390, 798, 725, 830]}
+    ]
+  },
+  {
+    "image_path": "struk_048.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "MARLEY'S SIGNATURE", "bbox": [422, 310, 706, 339]},
+      {"label": "grand_total", "text": "320.850", "bbox": [342, 862, 775, 893]}
+    ]
+  },
+  {
+    "image_path": "struk_049.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "OH! SOME", "bbox": [421, 196, 625, 269]},
+      {"label": "grand_total", "text": "121,700", "bbox": [672, 827, 881, 856]}
+    ]
+  },
+  {
+    "image_path": "struk_050.jpg",
+    "annotations": [
+      {"label": "nama_toko", "text": "GA/GA", "bbox": [334, 30, 613, 116]},
+      {"label": "grand_total", "text": "49.000", "bbox": [376, 810, 742, 844]}
+    ]
+  }
+ ]
